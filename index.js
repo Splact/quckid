@@ -14,8 +14,8 @@ module.exports = {
     // replace 10IO with WXYZ
     s = s.replace(/1/g, 'w');
     s = s.replace(/0/g, 'x');
-    s = s.replace(/I/g, 'y');
-    s = s.replace(/O/g, 'z');
+    s = s.replace(/i/g, 'y');
+    s = s.replace(/o/g, 'z');
 
     if (uc)
       s = s.toUpperCase();
