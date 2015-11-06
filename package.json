@@ -1,14 +1,14 @@
 {
-  "name": "quickid",
+  "name": "quickcode",
   "version": "1.0.0",
-  "description": "Generate quick id",
+  "description": "Generate quick and short code",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://splact@github.com/Splact/quickid.git"
+    "url": "git+https://splact@github.com/Splact/quickcode.git"
   },
   "keywords": [
     "shortid",
@@ -17,9 +17,9 @@
   "author": "Dario Carella <hi@dariocarella.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Splact/quickid/issues"
+    "url": "https://github.com/Splact/quickcode/issues"
   },
-  "homepage": "https://github.com/Splact/quickid#readme",
+  "homepage": "https://github.com/Splact/quickcode#readme",
   "dependencies": {
   }
 }

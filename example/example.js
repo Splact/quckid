@@ -1,6 +1,6 @@
-var quickid = require('..');
+var quickcode = require('..');
 
 var i = 0;
 while (i++ < 20) {
-  console.log(quickid.generate(i));
+  console.log(quickcode.generate(i));
 }
